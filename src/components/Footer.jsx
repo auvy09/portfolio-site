@@ -18,7 +18,8 @@ const Footer = () => {
                 </div>
             </div>
             <div>
-                <p>Copyright © 2023 - All right reserved </p>
+                <p>Copyright © 2023</p> <br />
+                <p>akibalmahmud356@gmail.com</p>
             </div>
         </footer >
     );

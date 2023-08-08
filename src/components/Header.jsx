@@ -21,9 +21,9 @@ const Header = () => {
                 <a href='#home' className="btn btn-ghost normal-case text-xl">Auvy</a>
             </div>
             <div className="navbar-end">
-                <button className="flex items gap-2 text-smallTextColor font-[600] border-solid hover:text-white hover:font-[500] ease duration-300 border-smallTextColor py-2 px-4 rounded-[8px] max-h-[40] hover:bg-smallTextColor">
-                    <i className='ri-send-plane-line' ></i> Let's Talk
-                </button>
+                <a href="AkibAlMahmudAuvy_CV_2.4.pdf" download='AkibAlMahmudAuvy_CV_2.4.pdf' > <button className="flex items gap-2 text-smallTextColor font-[600] border-solid hover:text-white hover:font-[500] ease duration-300 border-smallTextColor py-2 px-4 rounded-[8px] max-h-[40] hover:bg-smallTextColor">
+                    <i className="text-lg ri-arrow-down-circle-line"></i> Download Resume
+                </button></a>
 
             </div>
         </div>
